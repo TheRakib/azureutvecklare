@@ -6,8 +6,8 @@ namespace helloazureutvecklare
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("login page");
             Console.WriteLine("Hello World!");
         }
     }
 }
-
